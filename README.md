@@ -8,8 +8,8 @@ pip install -r requirements.txt
 ```
 ## train
 
-For bird dataset: bash scripts/train.sh ./cfg/bird.yml<br>
-For coco dataset: bash scripts/train.sh ./cfg/coco.yml
+For bird dataset:``` bash scripts/train.sh ./cfg/bird.yml```<br>
+For coco dataset: ```bash scripts/train.sh ./cfg/coco.yml```
 
 ## datasets
 Download the data for birds coco and extract them to data/
