@@ -1,6 +1,3 @@
-## Title
-
-Language-Vision Matching for Text-to-Image Synthesis with Context-Aware GAN
 
 ## requirements
 
